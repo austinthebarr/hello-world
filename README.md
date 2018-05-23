@@ -1,12 +1,12 @@
 # _Hello World_
 
-#### _ Saying Hello_
+#### _Saying Hello_
 
 #### By _Austin Barr_
 
 ## Description
 
-_ Saying hello in different languages_
+_Saying hello in different languages_
 
 ## Setup/Installation Requirements
 
